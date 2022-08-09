@@ -1,0 +1,63 @@
+[submodule "bundle/tabular"]
+	path = .vim/bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/bundler"]
+	path = .vim/bundle/bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "bundle/solarized"]
+	path = .vim/bundle/solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/commentary"]
+	path = .vim/bundle/commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/haml"]
+	path = .vim/bundle/haml
+	url = https://github.com/tpope/vim-haml.git
+[submodule "bundle/markdown"]
+	path = .vim/bundle/markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "bundle/repeat"]
+	path = .vim/bundle/repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/surround"]
+	path = .vim/bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/unimpaired"]
+	path = .vim/bundle/unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/coffee-script"]
+	path = .vim/bundle/coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/rails"]
+	path = .vim/bundle/rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/ctrlp"]
+	path = .vim/bundle/ctrlp
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "bundle/vim-go"]
+	path = .vim/bundle/vim-go
+	url = git@github.com:fatih/vim-go.git
+[submodule "bundle/vim-mustache-handlebars"]
+	path = .vim/bundle/vim-mustache-handlebars
+	url = git@github.com:mustache/vim-mustache-handlebars.git
+[submodule "bundle/vim-slim"]
+	path = .vim/bundle/vim-slim
+	url = git@github.com:slim-template/vim-slim.git
+[submodule "bundle/puppet"]
+	path = .vim/bundle/puppet
+	url = git@github.com:rodjek/vim-puppet.git
+[submodule "bundle/vim-pug"]
+	path = .vim/bundle/vim-pug
+	url = git@github.com:digitaltoad/vim-pug.git
+[submodule "bundle/vim-prettier"]
+	path = .vim/bundle/vim-prettier
+	url = git@github.com:prettier/vim-prettier.git
+[submodule "bundle/vim-ruby-heredoc-syntax"]
+	path = .vim/bundle/vim-ruby-heredoc-syntax
+	url = git@github.com:joker1007/vim-ruby-heredoc-syntax.git
+[submodule "bundle/vim-terraform"]
+	path = .vim/bundle/vim-terraform
+	url = git@github.com:hashivim/vim-terraform.git
