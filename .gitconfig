@@ -1,0 +1,27 @@
+[user]
+  name = Neal Lindsay
+  email = neal.lindsay@gmail.com
+[github]
+  user = neall
+[color]
+  ui = auto
+[alias]
+  l = log --graph --relative-date --pretty=format:'%C(yellow)%h%Creset%C(blue)%d%Creset %s %C(yellow)(%ad by %an)%Creset'
+  ll = log --all --graph --relative-date --pretty=format:'%C(yellow)%h%Creset%C(blue)%d%Creset %s %C(yellow)(%ad by %an)%Creset'
+  lb = log --branches --graph --relative-date --pretty=format:'%C(yellow)%h%Creset%C(blue)%d%Creset %s %C(yellow)(%ad by %an)%Creset'
+  ff = merge --ff-only
+  force = push --force-with-lease
+  fixup = commit --amend --no-edit
+  untracked = ls-files --others --exclude-standard
+[core]
+  editor = vim
+  excludesfile = ~/.gitignore_global
+[url "ssh://git@github.com/"]
+  insteadOf = https://github.com/
+[diff]
+  renames = true
+  renameLimit = 5000
+[rebase]
+  autosquash = true
+[init]
+  defaultBranch = main
